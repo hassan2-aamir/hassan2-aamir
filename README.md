@@ -25,3 +25,8 @@ I'm currently doing Bachelors in Computer Science at NUST, Islamabad. I am inter
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
     </a>
 </p>
+
+## My Projects
+
+- [Project Name](https://github.com/yourusername/project-repo-name): A brief description of the project.
+- [Another Project](https://github.com/yourusername/another-project-repo): Another brief description.
