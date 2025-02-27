@@ -45,7 +45,7 @@ I'm currently doing Bachelors in Computer Science at NUST, Islamabad. I am inter
 - [Movie Recommender Using Beautiful Soup](https://github.com/hassan2-aamir/Movie-Recommender)
 - [Stack Overflow Certain Topic Scraper using Scrapy, MongoDB and Python](https://github.com/hassan2-aamir/Web-Scraping-with-Scrapy-and-MongoDB)
 
-### HTML,CSS AND Javascrpt
+### HTML,CSS and Javascript
 - [Sample Portfolio Using HTML, CSS and Javascript](https://github.com/hassan2-aamir/Sample-portfolio-websote-using-html-css-)
 - [Voice chat with Open AI GPT using IBM Watson TTS and STT, Python, HTML, CSS and Javascript](https://github.com/hassan2-aamir/Chatbot-With-Voice-And-OpenAI)
 - [AI chatbot for personal data using RAG, IBM Watson, Python, Flask, HTML, CSS and JAVASCRIPT](https://github.com/hassan2-aamir/personal_data_assistant)
