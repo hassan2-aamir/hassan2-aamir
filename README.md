@@ -26,12 +26,38 @@ I'm currently doing Bachelors in Computer Science at NUST, Islamabad. I am inter
     </a>
 </p>
 
-## My Projects
+# My Projects
 
-# AI Development
+### AI Development
 - [Image captioner using BLIP model](https://github.com/hassan2-aamir/image_captioner)
 - [Voice chat with Open AI GPT using IBM Watson TTS and STT, Python, HTML, CSS and Javascript](https://github.com/hassan2-aamir/Chatbot-With-Voice-And-OpenAI)
 - [Meeting Summarizer using IBM Watson STT, LLAMA, Python and Gradio ](https://github.com/hassan2-aamir/Meeting-Summariser/)
 - [AI chatbot for personal data using RAG, IBM Watson, Python, Flask, HTML, CSS and JAVASCRIPT](https://github.com/hassan2-aamir/personal_data_assistant)
 - [AI Career Coach using IBM Granite Model, Python and Gradio](https://github.com/hassan2-aamir/AI-Career-Coach)
 - [AI Powered Coding Project Planner using IBM Granite Model, Python and Gradio](https://github.com/hassan2-aamir/ibm-watsonx-ai-challenge)
+
+### Machine Learning
+- [Labs during ML Specialization by DeepLearnign.ai and Standford University](https://github.com/hassan2-aamir/ML-Specialization-Labs)
+
+### Web Scraping
+- [Daraz.pk Top products hunter using Beautiful Soup, Selenium and Python](https://github.com/hassan2-aamir/Daraz-product-hunter)
+- [Current Top 10 Countries GDP using Pandas and Python](https://github.com/hassan2-aamir/Top-10-GDP)
+- [Movie Recommender Using Beautiful Soup](https://github.com/hassan2-aamir/Movie-Recommender)
+- [Stack Overflow Certain Topic Scraper using Scrapy, MongoDB and Python](https://github.com/hassan2-aamir/Web-Scraping-with-Scrapy-and-MongoDB)
+
+### HTML,CSS AND Javascrpt
+- [Sample Portfolio Using HTML, CSS and Javascript](https://github.com/hassan2-aamir/Sample-portfolio-websote-using-html-css-)
+- [Voice chat with Open AI GPT using IBM Watson TTS and STT, Python, HTML, CSS and Javascript](https://github.com/hassan2-aamir/Chatbot-With-Voice-And-OpenAI)
+- [AI chatbot for personal data using RAG, IBM Watson, Python, Flask, HTML, CSS and JAVASCRIPT](https://github.com/hassan2-aamir/personal_data_assistant)
+
+### Fundamental of AI
+- [Scheduling Solution for Multiple Solutions using Monte Carlo Search Tree, CSPs and Genetic Algorithms](https://github.com/hassan2-aamir/Scheduling-Solutions-using-Fundamental-AI-Algorithms)
+
+### Semester Projects
+- [Consoled Based Safari Ticket booking System using C](https://github.com/hassan2-aamir/Safari-Ticket-Booking-System)
+- [Smart Campus Map Using Java, Java Swing Library and MySQL](https://github.com/hassan2-aamir/Smart-City)
+- [Scheduling Solution for Multiple Solutions using Monte Carlo Search Tree, CSPs and Genetic Algorithms](https://github.com/hassan2-aamir/Scheduling-Solutions-using-Fundamental-AI-Algorithms)
+
+### DSA Repos
+- [All Algorithms for A Level CS 9618 P4 in Python](https://github.com/hassan2-aamir/p4Codes)
+- [Labs for CS-250 Data Structures and Algorithms in C++](https://github.com/hassan2-aamir/dsa_labs)
