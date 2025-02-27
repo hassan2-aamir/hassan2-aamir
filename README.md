@@ -28,5 +28,10 @@ I'm currently doing Bachelors in Computer Science at NUST, Islamabad. I am inter
 
 ## My Projects
 
-- [Project Name](https://github.com/yourusername/project-repo-name): A brief description of the project.
-- [Another Project](https://github.com/yourusername/another-project-repo): Another brief description.
+# AI Development
+- [Image captioner using BLIP model](https://github.com/hassan2-aamir/image_captioner)
+- [Voice chat with Open AI GPT using IBM Watson TTS and STT, Python, HTML, CSS and Javascript](https://github.com/hassan2-aamir/Chatbot-With-Voice-And-OpenAI)
+- [Meeting Summarizer using IBM Watson STT, LLAMA, Python and Gradio ](https://github.com/hassan2-aamir/Meeting-Summariser/)
+- [AI chatbot for personal data using RAG, IBM Watson, Python, Flask, HTML, CSS and JAVASCRIPT](https://github.com/hassan2-aamir/personal_data_assistant)
+- [AI Career Coach using IBM Granite Model, Python and Gradio](https://github.com/hassan2-aamir/AI-Career-Coach)
+- [AI Powered Coding Project Planner using IBM Granite Model, Python and Gradio](https://github.com/hassan2-aamir/ibm-watsonx-ai-challenge)
