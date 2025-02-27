@@ -37,7 +37,7 @@ I'm currently doing Bachelors in Computer Science at NUST, Islamabad. I am inter
 - [AI Powered Coding Project Planner using IBM Granite Model, Python and Gradio](https://github.com/hassan2-aamir/ibm-watsonx-ai-challenge)
 
 ### Machine Learning
-- [Labs during ML Specialization by DeepLearnign.ai and Standford University](https://github.com/hassan2-aamir/ML-Specialization-Labs)
+- [Labs during ML Specialization by DeepLearning.ai and Standford University](https://github.com/hassan2-aamir/ML-Specialization-Labs)
 
 ### Web Scraping
 - [Daraz.pk Top products hunter using Beautiful Soup, Selenium and Python](https://github.com/hassan2-aamir/Daraz-product-hunter)
