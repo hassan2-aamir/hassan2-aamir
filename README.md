@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Developer | Machine Learning Engineer | Web Scraping | Full Stack Development
 --------------------------------------------------------------------------------
 
-I'm currently doing Bachelors in Computer Science at NUST, Islamabad. I am interested in the fields of machine learning and AI development and have completed multiple projects in the domain of AI, Machine Learning, Web Scraping and Full-Stack development. Major Technologies that I am comfortable with are : Python, Flask, BeautifulSoup, Scrapy, LangChain, TensorFlow, Scikit learn, Pytorch, HTML, CSS, Javascript, React.js, Node.js. I have also done online courses and am currently an IBM certified AI developer, Stanford certified Machine learning specialist and Imperial college of London certfied Mathematics of Machine Learning Specialist.
+I'm currently doing Bachelors in Computer Science at NUST, Islamabad. I am interested in the fields of machine learning and AI development and have completed multiple projects in the domain of AI, Machine Learning, Web Scraping and Full-Stack development. Major Technologies that I am comfortable with are : Python, Flask, BeautifulSoup, Scrapy, LangChain, TensorFlow, Scikit learn, Pytorch, HTML, CSS, Javascript, React.js, Node.js. I have also done online courses and am currently an IBM certified AI developer, Stanford certified Machine learning specialist and Imperial college of London certified Mathematics for Machine Learning Specialist.
 
 *   🌍  I'm based in Pakistan
 *   ✉️  You can contact me at [haamir.bscs23seecs@seecs.edu.pk](mailto:haamir.bscs23seecs@seecs.edu.pk)
