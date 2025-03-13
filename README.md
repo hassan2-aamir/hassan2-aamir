@@ -50,7 +50,15 @@ I'm currently doing Bachelors in Computer Science at NUST, Islamabad. I am inter
 - [Voice chat with Open AI GPT using IBM Watson TTS and STT, Python, HTML, CSS and Javascript](https://github.com/hassan2-aamir/Chatbot-With-Voice-And-OpenAI)
 - [AI chatbot for personal data using RAG, IBM Watson, Python, Flask, HTML, CSS and JAVASCRIPT](https://github.com/hassan2-aamir/personal_data_assistant)
 
-### Fundamental of AI
+### Fundamentals of Javascript
+- [Simple todo list application](https://github.com/hassan2-aamir/Todo-List)
+- [Memory match game](https://github.com/hassan2-aamir/Memory-Match-Game)
+- [Health article fetcher using XMLhttpRequest Api](https://github.com/hassan2-aamir/Fetching-Health-Articles-using-XMLHttpRequest)
+- [Current weather information fetcher for any city using the OpenWeatherMap API](https://github.com/hassan2-aamir/Fetch-Weather-Data-Using-fetch-)
+- [Simple health census website](https://github.com/hassan2-aamir/health-cencus-webapp)
+- [Travel Buddy - Travel Recommendation website](https://github.com/hassan2-aamir/Travel-Recommendation-Web-Application)
+
+### Fundamentals of AI
 - [Scheduling Solution for Multiple Solutions using Monte Carlo Search Tree, CSPs and Genetic Algorithms](https://github.com/hassan2-aamir/Scheduling-Solutions-using-Fundamental-AI-Algorithms)
 
 ### Semester Projects
