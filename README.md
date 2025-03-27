@@ -35,9 +35,13 @@ I'm currently doing Bachelors in Computer Science at NUST, Islamabad. I am inter
 - [AI chatbot for personal data using RAG, IBM Watson, Python, Flask, HTML, CSS and JAVASCRIPT](https://github.com/hassan2-aamir/personal_data_assistant)
 - [AI Career Coach using IBM Granite Model, Python and Gradio](https://github.com/hassan2-aamir/AI-Career-Coach)
 - [AI Powered Coding Project Planner using IBM Granite Model, Python and Gradio](https://github.com/hassan2-aamir/ibm-watsonx-ai-challenge)
-
+- [AI powered Virtual Job Assistant using React with TypeScript, Vite, Tailwind CSS, Python, Flask, ReportLab and MySQL](https://github.com/hassan2-aamir/Virtual-Job-Assistant)
+  
 ### Machine Learning
 - [Labs during ML Specialization by DeepLearning.ai and Standford University](https://github.com/hassan2-aamir/ML-Specialization-Labs)
+
+### React JS
+- [AI powered Virtual Job Assistant using React with TypeScript, Vite, Tailwind CSS, Python, Flask, ReportLab and MySQL](https://github.com/hassan2-aamir/Virtual-Job-Assistant)
 
 ### Web Scraping
 - [Daraz.pk Top products hunter using Beautiful Soup, Selenium and Python](https://github.com/hassan2-aamir/Daraz-product-hunter)
