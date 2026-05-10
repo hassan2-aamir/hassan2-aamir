@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Aamir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan--aamir)
 [![GitHub](https://img.shields.io/badge/GitHub-hassan2--aamir-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/hassan2-aamir)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haamir.bscs23seecs@seecs.edu.pk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-00F5C4?style=for-the-badge&logo=vercel&logoColor=black)](https://master.d7rdp3159yz1h.amplifyapp.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-00F5C4?style=for-the-badge&logo=vercel&logoColor=black)]([https://master.d7rdp3159yz1h.amplifyapp.com/](https://hassan2-aamir.github.io/hassan2-aamir/))
 
 </div>
 
