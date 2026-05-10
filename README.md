@@ -101,109 +101,121 @@ hassan = {
 
 ---
 
-## 🚀 Flagship Projects
+## 📂 My Projects
 
-<table>
-<tr>
-<td width="50%">
+### ⭐ Flagship Projects
 
-### 💰 AI Budget Creator
-> ReactJS · NestJS · TypeScript · PostgreSQL · Prisma
-
-An AI-powered annual budget planning app with intelligent financial insights. Deployed on AWS Amplify.
-
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-00F5C4?style=for-the-badge)](https://master.d7rdp3159yz1h.amplifyapp.com/)
-
-</td>
-<td width="50%">
-
-### 💼 Virtual Job Assistant
-> React · Flask · MySQL · ReportLab · Tailwind
-
-Full AI career platform — resume analysis, job matching, and PDF report generation.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hassan2-aamir/Virtual-Job-Assistant)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔍 Crime Detection System
-> YOLOv8 · ByteTrack · 3D CNN · Python
-
-Real-time crime detection pipeline combining object detection, multi-object tracking, and temporal action classification.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hassan2-aamir/crime_detection_system)
-
-</td>
-<td width="50%">
-
-### 🤖 RAG Personal Assistant
-> LangChain · IBM Watson · Flask · Python
-
-AI chatbot that answers questions about your own documents using Retrieval-Augmented Generation.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hassan2-aamir/personal_data_assistant)
-
-</td>
-</tr>
-</table>
+| Project | Tech | Link |
+|---|---|---|
+| AI powered Annual budget creation application | ReactJs · NestJS · TypeScript · PostgreSQL · Prisma | [🌐 Live Demo](https://master.d7rdp3159yz1h.amplifyapp.com/) |
+| In-depth analysis of PSX | Python · Pandas · Plotly | [→ GitHub](https://github.com/hassan2-aamir/DV-Labs) |
+| AI powered Virtual Job Assistant | ReactJS · TypeScript · Vite · Tailwind CSS · Python · Flask · ReportLab · MySQL | [→ GitHub](https://github.com/hassan2-aamir/Virtual-Job-Assistant) |
 
 ---
 
-## 📂 More Projects
-
-<details>
-<summary><b>🤖 AI Development</b></summary>
-<br>
+### 🤖 AI Development
 
 | Project | Tech | Link |
 |---|---|---|
-| Voice Chat with GPT | OpenAI · IBM Watson STT/TTS · Python | [→ GitHub](https://github.com/hassan2-aamir/Chatbot-With-Voice-And-OpenAI) |
-| Meeting Summariser | LLAMA · IBM Watson · Gradio | [→ GitHub](https://github.com/hassan2-aamir/Meeting-Summariser/) |
-| AI Career Coach | IBM Granite · Gradio · Python | [→ GitHub](https://github.com/hassan2-aamir/AI-Career-Coach) |
-| Coding Project Planner | IBM Granite · Gradio · Python | [→ GitHub](https://github.com/hassan2-aamir/ibm-watsonx-ai-challenge) |
-| Image Captioner | BLIP · HuggingFace · Python | [→ GitHub](https://github.com/hassan2-aamir/image_captioner) |
+| Image captioner | BLIP Model · Python | [→ GitHub](https://github.com/hassan2-aamir/image_captioner) |
+| Voice chat with OpenAI GPT | IBM Watson TTS/STT · Python · HTML · CSS · JS | [→ GitHub](https://github.com/hassan2-aamir/Chatbot-With-Voice-And-OpenAI) |
+| Meeting Summarizer | IBM Watson STT · LLAMA · Python · Gradio | [→ GitHub](https://github.com/hassan2-aamir/Meeting-Summariser/) |
+| AI chatbot for personal data | RAG · IBM Watson · Python · Flask · HTML · CSS · JS | [→ GitHub](https://github.com/hassan2-aamir/personal_data_assistant) |
+| AI Career Coach | IBM Granite Model · Python · Gradio | [→ GitHub](https://github.com/hassan2-aamir/AI-Career-Coach) |
+| AI Powered Coding Project Planner | IBM Granite Model · Python · Gradio | [→ GitHub](https://github.com/hassan2-aamir/ibm-watsonx-ai-challenge) |
+| AI powered Virtual Job Assistant | React · TypeScript · Vite · Tailwind CSS · Flask · ReportLab · MySQL | [→ GitHub](https://github.com/hassan2-aamir/Virtual-Job-Assistant) |
 
-</details>
+---
 
-<details>
-<summary><b>📊 Machine Learning</b></summary>
-<br>
-
-| Project | Tech | Link |
-|---|---|---|
-| AutoML Platform | Scikit-Learn · TensorFlow · Python | [→ GitHub](https://github.com/hassan2-aamir/CS245_Project_AutoMl) |
-| ML Specialization Labs | Python · NumPy · Matplotlib | [→ GitHub](https://github.com/hassan2-aamir/ML-Specialization-Labs) |
-| AI Scheduling Solver | MCTS · CSP · Genetic Algorithms | [→ GitHub](https://github.com/hassan2-aamir/Scheduling-Solutions-using-Fundamental-AI-Algorithms) |
-
-</details>
-
-<details>
-<summary><b>🌐 Full Stack Apps</b></summary>
-<br>
+### 👁️ Computer Vision
 
 | Project | Tech | Link |
 |---|---|---|
-| Court Booking Dashboard | ReactJS · NestJS · Prisma | [→ GitHub](https://github.com/hassan2-aamir/court-booking-app) |
-| PSX In-Depth Analysis | Python · Pandas · Plotly | [→ GitHub](https://github.com/hassan2-aamir/DV-Labs) |
-| Big Data Pipeline | HDFS · Apache Spark · Python | [→ GitHub](https://github.com/hassan2-aamir/Ecommerce_Analysis_BDA_A3) |
+| Crime detection pipeline | YOLOv8 · ByteTrack · 3D CNN · Python | [→ GitHub](https://github.com/hassan2-aamir/crime_detection_system) |
 
-</details>
+---
 
-<details>
-<summary><b>🕷️ Web Scraping</b></summary>
-<br>
+### 📊 Machine Learning
 
 | Project | Tech | Link |
 |---|---|---|
-| Daraz.pk Product Hunter | BeautifulSoup · Selenium · Python | [→ GitHub](https://github.com/hassan2-aamir/Daraz-product-hunter) |
-| Top 10 GDP Countries | Pandas · Python | [→ GitHub](https://github.com/hassan2-aamir/Top-10-GDP) |
+| ML Specialization Labs | Python · NumPy · DeepLearning.ai · Stanford | [→ GitHub](https://github.com/hassan2-aamir/ML-Specialization-Labs) |
+| AutoML Platform | 7 ML Models · Scikit-Learn · TensorFlow · Python | [→ GitHub](https://github.com/hassan2-aamir/CS245_Project_AutoMl) |
+
+---
+
+### 🌐 Full Stack Apps (MERN)
+
+| Project | Tech | Link |
+|---|---|---|
+| AI powered Virtual Job Assistant | React · TypeScript · Vite · Tailwind · Flask · ReportLab · MySQL | [→ GitHub](https://github.com/hassan2-aamir/Virtual-Job-Assistant) |
+| Court booking dashboard | ReactJS · NestJS · Prisma ORM | [→ GitHub](https://github.com/hassan2-aamir/court-booking-app) |
+| AI powered Annual budget creation application | ReactJs · NestJS · TypeScript · PostgreSQL · Prisma | [🌐 Live Demo](https://master.d7rdp3159yz1h.amplifyapp.com/) |
+
+---
+
+### 🕷️ Web Scraping
+
+| Project | Tech | Link |
+|---|---|---|
+| Daraz.pk Top products hunter | BeautifulSoup · Selenium · Python | [→ GitHub](https://github.com/hassan2-aamir/Daraz-product-hunter) |
+| Current Top 10 Countries GDP | Pandas · Python | [→ GitHub](https://github.com/hassan2-aamir/Top-10-GDP) |
 | Movie Recommender | BeautifulSoup · Python | [→ GitHub](https://github.com/hassan2-aamir/Movie-Recommender) |
-| Stack Overflow Scraper | Scrapy · MongoDB · Python | [→ GitHub](https://github.com/hassan2-aamir/Web-Scraping-with-Scrapy-and-MongoDB) |
+| Stack Overflow Topic Scraper | Scrapy · MongoDB · Python | [→ GitHub](https://github.com/hassan2-aamir/Web-Scraping-with-Scrapy-and-MongoDB) |
 
-</details>
+---
+
+### 🎨 HTML, CSS & Javascript
+
+| Project | Tech | Link |
+|---|---|---|
+| Sample Portfolio Website | HTML · CSS · JavaScript | [→ GitHub](https://github.com/hassan2-aamir/Sample-portfolio-websote-using-html-css-) |
+| Voice chat with OpenAI GPT | IBM Watson TTS/STT · Python · HTML · CSS · JS | [→ GitHub](https://github.com/hassan2-aamir/Chatbot-With-Voice-And-OpenAI) |
+| AI chatbot for personal data | RAG · IBM Watson · Flask · HTML · CSS · JS | [→ GitHub](https://github.com/hassan2-aamir/personal_data_assistant) |
+
+---
+
+### 🟨 Fundamentals of Javascript
+
+| Project | Link |
+|---|---|
+| Simple todo list application | [→ GitHub](https://github.com/hassan2-aamir/Todo-List) |
+| Memory match game | [→ GitHub](https://github.com/hassan2-aamir/Memory-Match-Game) |
+| Health article fetcher (XMLHttpRequest API) | [→ GitHub](https://github.com/hassan2-aamir/Fetching-Health-Articles-using-XMLHttpRequest) |
+| Current weather fetcher (OpenWeatherMap API) | [→ GitHub](https://github.com/hassan2-aamir/Fetch-Weather-Data-Using-fetch-) |
+| Simple health census website | [→ GitHub](https://github.com/hassan2-aamir/health-cencus-webapp) |
+| Travel Buddy — Travel Recommendation Website | [→ GitHub](https://github.com/hassan2-aamir/Travel-Recommendation-Web-Application) |
+
+---
+
+### 🧩 Fundamentals of AI
+
+| Project | Tech | Link |
+|---|---|---|
+| Scheduling Solution (Multiple Constraints) | MCTS · CSPs · Genetic Algorithms · Python | [→ GitHub](https://github.com/hassan2-aamir/Scheduling-Solutions-using-Fundamental-AI-Algorithms) |
+
+---
+
+### 🎓 Semester Projects
+
+| Project | Tech | Link |
+|---|---|---|
+| Console Based Safari Ticket Booking System | C | [→ GitHub](https://github.com/hassan2-aamir/Safari-Ticket-Booking-System) |
+| Smart Campus Map | Java · Java Swing · MySQL | [→ GitHub](https://github.com/hassan2-aamir/Smart-City) |
+| Scheduling Solution (Multiple Constraints) | MCTS · CSPs · Genetic Algorithms | [→ GitHub](https://github.com/hassan2-aamir/Scheduling-Solutions-using-Fundamental-AI-Algorithms) |
+| Novel AHA telemetry-driven runtime controller | Distributed Systems · Python | [→ GitHub](https://github.com/hassan2-aamir/pda_project) |
+| Big data processing pipeline | HDFS · Apache Spark · Python | [→ GitHub](https://github.com/hassan2-aamir/Ecommerce_Analysis_BDA_A3) |
+| In-depth analysis of PSX | Python · Pandas · Plotly | [→ GitHub](https://github.com/hassan2-aamir/DV-Labs) |
+| AutoML Platform | 7 ML Models · Scikit-Learn · TensorFlow | [→ GitHub](https://github.com/hassan2-aamir/CS245_Project_AutoMl) |
+
+---
+
+### 🧮 DSA Repos
+
+| Project | Tech | Link |
+|---|---|---|
+| All Algorithms for A Level CS 9618 P4 | Python | [→ GitHub](https://github.com/hassan2-aamir/p4Codes) |
+| Labs for CS-250 Data Structures & Algorithms | C++ | [→ GitHub](https://github.com/hassan2-aamir/dsa_labs) |
 
 ---
 
