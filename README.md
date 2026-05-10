@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Developer | Machine Learning Engineer | Web Scraping | Full Stack Development
 --------------------------------------------------------------------------------
 
-I'm currently doing Bachelors in Computer Science at NUST, Islamabad. I am interested in the fields of machine learning and AI development and have completed multiple projects in the domain of AI, Machine Learning, Web Scraping and Full-Stack development. Major Technologies that I am comfortable with are : Python, Flask, BeautifulSoup, Scrapy, LangChain, TensorFlow, Scikit learn, Pytorch, HTML, CSS, Javascript, React.js, Node.js. I have also done online courses and am currently an IBM certified AI developer, Stanford certified Machine learning specialist and Imperial college of London certified Mathematics for Machine Learning Specialist.
+I have done Bachelors in Computer Science at NUST, Islamabad. I am interested in the fields of machine learning and AI development and have completed multiple projects in the domain of AI, Machine Learning, Web Scraping and Full-Stack development. I have job experience working with AngularJS, NestJS and Prisma ORM. Major Technologies that I am comfortable with are : Python, Flask, BeautifulSoup, Scrapy, LangChain, TensorFlow, Scikit learn, Pytorch, HTML, CSS, Javascript, React.js, Node.js. I have also done online courses and am currently an IBM certified AI developer, Stanford certified Machine learning specialist and Imperial college of London certified Mathematics for Machine Learning Specialist.
 
 *   🌍  I'm based in Pakistan
 *   ✉️  You can contact me at [haamir.bscs23seecs@seecs.edu.pk](mailto:haamir.bscs23seecs@seecs.edu.pk)
@@ -28,6 +28,11 @@ I'm currently doing Bachelors in Computer Science at NUST, Islamabad. I am inter
 
 # My Projects
 
+### Flagship Projects
+- [AI powered Annual budget creation application using ReactJs, NestJS, Typescript, PostgreSQL, Prisma](https://master.d7rdp3159yz1h.amplifyapp.com/) 
+- [In-depth analysis of PSX](https://github.com/hassan2-aamir/DV-Labs)
+- [AI powered Virtual Job Assistant using React with ReactJS, TypeScript, Vite, Tailwind CSS, Python, Flask, ReportLab and MySQL](https://github.com/hassan2-aamir/Virtual-Job-Assistant)
+
 ### AI Development
 - [Image captioner using BLIP model](https://github.com/hassan2-aamir/image_captioner)
 - [Voice chat with Open AI GPT using IBM Watson TTS and STT, Python, HTML, CSS and Javascript](https://github.com/hassan2-aamir/Chatbot-With-Voice-And-OpenAI)
@@ -36,12 +41,18 @@ I'm currently doing Bachelors in Computer Science at NUST, Islamabad. I am inter
 - [AI Career Coach using IBM Granite Model, Python and Gradio](https://github.com/hassan2-aamir/AI-Career-Coach)
 - [AI Powered Coding Project Planner using IBM Granite Model, Python and Gradio](https://github.com/hassan2-aamir/ibm-watsonx-ai-challenge)
 - [AI powered Virtual Job Assistant using React with TypeScript, Vite, Tailwind CSS, Python, Flask, ReportLab and MySQL](https://github.com/hassan2-aamir/Virtual-Job-Assistant)
-  
+
+### Computer Vision
+- [Crime detection pipeline using Yolov8, Bytetrack snd 3D CNN.](https://github.com/hassan2-aamir/crime_detection_system)
+
 ### Machine Learning
 - [Labs during ML Specialization by DeepLearning.ai and Standford University](https://github.com/hassan2-aamir/ML-Specialization-Labs)
+- [AutoML: The UI based machine learning with the choice of 7 distinct ML models](https://github.com/hassan2-aamir/CS245_Project_AutoMl)
 
-### React JS
+### Full Stack Apps (MERN)
 - [AI powered Virtual Job Assistant using React with TypeScript, Vite, Tailwind CSS, Python, Flask, ReportLab and MySQL](https://github.com/hassan2-aamir/Virtual-Job-Assistant)
+- [Court booking dashboard using ReactJS, Nest JS, Prisma ORM ](https://github.com/hassan2-aamir/court-booking-app)
+- [AI powered Annual budget creation application using ReactJs, NestJS, Typescript, PostgreSQL, Prisma](https://master.d7rdp3159yz1h.amplifyapp.com/) 
 
 ### Web Scraping
 - [Daraz.pk Top products hunter using Beautiful Soup, Selenium and Python](https://github.com/hassan2-aamir/Daraz-product-hunter)
@@ -68,7 +79,11 @@ I'm currently doing Bachelors in Computer Science at NUST, Islamabad. I am inter
 ### Semester Projects
 - [Consoled Based Safari Ticket booking System using C](https://github.com/hassan2-aamir/Safari-Ticket-Booking-System)
 - [Smart Campus Map Using Java, Java Swing Library and MySQL](https://github.com/hassan2-aamir/Smart-City)
-- [Scheduling Solution for Multiple Solutions using Monte Carlo Search Tree, CSPs and Genetic Algorithms](https://github.com/hassan2-aamir/Scheduling-Solutions-using-Fundamental-AI-Algorithms)
+- [Scheduling Solution for Multiple Constraints using Monte Carlo Search Tree, CSPs and Genetic Algorithms](https://github.com/hassan2-aamir/Scheduling-Solutions-using-Fundamental-AI-Algorithms)
+- [Novel AHA telemetry-driven runtime controller for distributed systems](https://github.com/hassan2-aamir/pda_project)
+- [Big data processing pipeline using hdfs and Apache Spark with analysis on a grocery store](https://github.com/hassan2-aamir/Ecommerce_Analysis_BDA_A3)
+- [In-depth analysis of PSX](https://github.com/hassan2-aamir/DV-Labs)
+- [AutoML: The UI based machine learning with the choice of 7 distinct ML models](https://github.com/hassan2-aamir/CS245_Project_AutoMl)
 
 ### DSA Repos
 - [All Algorithms for A Level CS 9618 P4 in Python](https://github.com/hassan2-aamir/p4Codes)
