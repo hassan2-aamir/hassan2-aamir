@@ -1123,36 +1123,28 @@
   const cards = document.querySelectorAll('.project-card');
   const groupHeaders = document.querySelectorAll('.project-group-header');
 
-  filterBtns.forEach(btn => {
-    btn.addEventListener('click', () => {
-      filterBtns.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      const cat = btn.dataset.cat;
+  function applyFilter(cat) {
+    filterBtns.forEach(b => b.classList.remove('active'));
+    const activeBtn = document.querySelector(`.filter-btn[data-cat="${cat}"]`);
+    if (activeBtn) activeBtn.classList.add('active');
 
-      cards.forEach(card => {
-        const cardCat = card.dataset.cat || '';
-        const show = cat === 'all' || cardCat === cat;
-        card.style.display = show ? '' : 'none';
-        if (show) card.style.animation = 'fadeUp 0.4s ease both';
-      });
-
-      // Show/hide group headers based on whether any card in that group is visible
-      groupHeaders.forEach(header => {
-        if (cat === 'all') {
-          header.style.display = '';
-          return;
-        }
-        const group = header.dataset.group;
-        const hasVisible = [...cards].some(c =>
-          c.dataset.cat === cat &&
-          c.previousElementSibling &&
-          c.closest('#projects-grid').querySelector(`[data-group="${group}"]`)
-        );
-        // Simpler: hide header if its group doesn't match active filter
-        header.style.display = (group === cat) ? '' : 'none';
-      });
+    cards.forEach(card => {
+      const show = cat === 'all' || card.dataset.cat === cat;
+      card.style.display = show ? '' : 'none';
+      if (show) card.style.animation = 'fadeUp 0.4s ease both';
     });
+
+    groupHeaders.forEach(header => {
+      header.style.display = (cat === 'all' || header.dataset.group === cat) ? '' : 'none';
+    });
+  }
+
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => applyFilter(btn.dataset.cat));
   });
+
+  // Run on load so "All" state is correctly applied from the start
+  applyFilter('all');
 
   // ── Typing effect in hero tag ──
   const tag = document.querySelector('.hero-tag');
