@@ -223,11 +223,6 @@ hassan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hassan2-aamir&show_icons=true&theme=merko&hide_border=true&bg_color=050a0e&title_color=00f5c4&icon_color=00c2ff&text_color=c8d8e4&ring_color=00f5c4" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan2-aamir&layout=compact&theme=merko&hide_border=true&bg_color=050a0e&title_color=00f5c4&text_color=c8d8e4&langs_count=8" height="170" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=hassan2-aamir&theme=dark&hide_border=true&background=050a0e&ring=00f5c4&fire=ff4d6d&currStreakLabel=00c2ff&sideNums=00f5c4&currStreakNum=ffffff&sideLabels=c8d8e4&dates=4a6070" />
 
 </div>
