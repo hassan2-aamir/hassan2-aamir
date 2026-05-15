@@ -109,7 +109,7 @@ hassan = {
 | Project | Tech | Link |
 |---|---|---|
 | AI powered Annual budget creation application | ReactJs · NestJS · TypeScript · PostgreSQL · Prisma | [🌐 Live Demo](https://master.d7rdp3159yz1h.amplifyapp.com/) |
-| In-depth analysis of PSX | Python · Pandas · Plotly | [→ GitHub](https://github.com/hassan2-aamir/DV-Labs) |
+| In-depth analysis of PSX | Python · Pandas · Plotly | [→ GitHub](https://github.com/hassan2-aamir/DV-PSX) |
 | AI powered Virtual Job Assistant | ReactJS · TypeScript · Vite · Tailwind CSS · Python · Flask · ReportLab · MySQL | [→ GitHub](https://github.com/hassan2-aamir/Virtual-Job-Assistant) |
 
 ---
@@ -206,7 +206,7 @@ hassan = {
 | Scheduling Solution (Multiple Constraints) | MCTS · CSPs · Genetic Algorithms | [→ GitHub](https://github.com/hassan2-aamir/Scheduling-Solutions-using-Fundamental-AI-Algorithms) |
 | Novel AHA telemetry-driven runtime controller | Distributed Systems · Python | [→ GitHub](https://github.com/hassan2-aamir/pda_project) |
 | Big data processing pipeline | HDFS · Apache Spark · Python | [→ GitHub](https://github.com/hassan2-aamir/Ecommerce_Analysis_BDA_A3) |
-| In-depth analysis of PSX | Python · Pandas · Plotly | [→ GitHub](https://github.com/hassan2-aamir/DV-Labs) |
+| In-depth analysis of PSX | Python · Pandas · Plotly | [→ GitHub](https://github.com/hassan2-aamir/DV-PSX) |
 | AutoML Platform | 7 ML Models · Scikit-Learn · TensorFlow | [→ GitHub](https://github.com/hassan2-aamir/CS245_Project_AutoMl) |
 
 ---
